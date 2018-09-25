@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\bin\Debug\Kata-CountingDuplicates.exe.config
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\bin\Debug\Kata-CountingDuplicates.exe
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\bin\Debug\Kata-CountingDuplicates.pdb
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\obj\Debug\Kata-CountingDuplicates.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\obj\Debug\Kata-CountingDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\obj\Debug\Kata-CountingDuplicates.exe
+C:\Users\Yasin\source\repos\Kata-CountingDuplicates\Kata-CountingDuplicates\obj\Debug\Kata-CountingDuplicates.pdb
